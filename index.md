@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rutgers MBS Online Notes
+title: "Rutgers MBS - Analytics"
 tagline: Rutgers MBS Analytics
 published: true
 ---
@@ -17,6 +17,3 @@ Some notes I collected during the class for further investigation:
 - Discordant Data - Data that is not of one accord: conflicting
 
 We are going to be using the [Weka](http://www.cs.waikato.ac.nz/ml/weka/) toolkit. The text book is also written by the leading developers of this project.
-
-
-
