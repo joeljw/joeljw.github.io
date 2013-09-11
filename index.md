@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Rutgers MBS - Analytics"
-tagline: Rutgers MBS Analytics
+tagline: null
 published: true
 ---
 
